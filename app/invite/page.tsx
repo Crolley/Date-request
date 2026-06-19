@@ -52,7 +52,7 @@ function InvitePage() {
   return (
     <div
       className="min-h-screen flex items-center justify-center p-4"
-      style={{ background: styles.bg, fontFamily: styles.font, zoom: styles.zoom }}
+      style={{ background: styles.bg, fontFamily: styles.font }}
     >
       <div
         className="w-full max-w-md rounded-3xl shadow-lg p-8 flex flex-col gap-6 text-center"
